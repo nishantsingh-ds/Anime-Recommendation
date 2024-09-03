@@ -1,1 +1,3 @@
-
+The original rating.csv is too long.
+Below is the link to access both the datasets:
+ https://www.kaggle.com/code/hasibalmuzdadid/anime-ratings-analysis-recommender-system/input
